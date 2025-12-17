@@ -1,10 +1,10 @@
 {
   "name": "clone_tabnews",
   "version": "1.0.0",
-  "description": "Implementação do https://www.tabnews.com.br para o https://curso.dev",
+  "description": "Implementa\u00e7\u00e3o do https://www.tabnews.com.br para o https://curso.dev",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev"
+    "dev": "node api.js && next dev"
   },
   "author": "",
   "license": "MIT",
